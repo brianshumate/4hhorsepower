@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[4H Horse Power Club]]></title>
-  <link href="http://4hhorsepower.org//github/atom.xml" rel="self"/>
-  <link href="http://4hhorsepower.org//github/"/>
-  <updated>2013-09-29T12:52:20-04:00</updated>
-  <id>http://4hhorsepower.org//github/</id>
+  <link href="http://4hhorsepower.org//atom.xml" rel="self"/>
+  <link href="http://4hhorsepower.org//"/>
+  <updated>2013-09-29T13:00:47-04:00</updated>
+  <id>http://4hhorsepower.org//</id>
   <author>
     <name><![CDATA[Danika Shumate]]></name>
     
