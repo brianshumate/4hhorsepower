@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[4H Horse Power Club]]></title>
+  <link href="http://4hhorsepower.org//github/atom.xml" rel="self"/>
+  <link href="http://4hhorsepower.org//github/"/>
+  <updated>2013-09-29T12:52:20-04:00</updated>
+  <id>http://4hhorsepower.org//github/</id>
+  <author>
+    <name><![CDATA[Danika Shumate]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
